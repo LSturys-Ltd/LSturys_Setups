@@ -1,0 +1,11 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.0.0.3",
+      "download-url": "https://raw.githubusercontent.com/LSturys-Ltd/LSturys_Setups/master/setup_LSturys.exe",
+      "changelog": "",
+      "mandatory": true
+    }
+  }
+}
